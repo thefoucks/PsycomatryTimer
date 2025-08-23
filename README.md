@@ -22,7 +22,7 @@
 5. לחץ "התקן" והמתן לסיום ההתקנה
 
 ### שיטה 2: סריקת קוד QR
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=LINK_TO_YOUR_APK)
+![QR Code]([https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=LINK_TO_YOUR_APK](https://drive.google.com/file/d/1n_gAyfHHrQtuGUVzrDFI4qSVbxMHbzek/view?usp=sharing))
 
 ## 📖 הוראות שימוש
 
