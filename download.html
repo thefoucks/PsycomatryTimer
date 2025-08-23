@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>הורדת אפליקציית השעון הפסיכומטרי</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            overflow: hidden;
+            direction: rtl;
+            text-align: center;
+        }
+        
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 20px;
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .app-icon {
+            width: 120px;
+            height: 120px;
+            margin: 20px auto;
+            background: #3498db;
+            border-radius: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-size: 2.5rem;
+            font-weight: bold;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 25px 0;
+        }
+        
+        .feature {
+            flex: 1;
+            min-width: 200px;
+            padding: 15px;
+            margin: 10px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .feature div {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        
+        .download-section {
+            margin: 30px 0;
+        }
+        
+        .download-btn {
+            display: inline-block;
+            background: #e74c3c;
+            color: white;
+            padding: 18px 40px;
+            font-size: 1.3rem;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);
+            margin: 15px 0;
+        }
+        
+        .download-btn:hover {
+            background: #c0392b;
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(231, 76, 60, 0.5);
+        }
+        
+        .instructions {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: right;
+        }
+        
+        .instructions ol {
+            padding-right: 20px;
+        }
+        
+        .instructions li {
+            margin-bottom: 10px;
+        }
+        
+        .warning {
+            color: #e74c3c;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+        
+        footer {
+            background: #ecf0f1;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+        
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .feature {
+                min-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>אפליקציית השעון הפסיכומטרי</h1>
+            <p>הכלי המושלם לתרגול פסיכומטרי</p>
+        </header>
+        
+        <div class="content">
+            <div class="app-icon">P</div>
+            
+            <div class="features">
+                <div class="feature">
+                    <div>⏱️</div>
+                    <h3>שעון עתודאות</h3>
+                    <p>שעון מדויק לניהול זמן במבחן</p>
+                </div>
+                <div class="feature">
+                    <div>🔊</div>
+                    <h3>התראות קוליות</h3>
+                    <p>התראות בהתאם לשלבי המבחן</p>
+                </div>
+                <div class="feature">
+                    <div>⚙️</div>
+                    <h3>התאמה אישית</h3>
+                    <p>התאם את המבחן לצרכים שלך</p>
+                </div>
+            </div>
+            
+            <div class="download-section">
+                <h2>הורד עכשיו בחינם!</h2>
+                <p>לחץ על הכפתור להורדת האפליקציה</p>
+                
+                <!-- החלף את הקישור הזה בקישור האמיתי שלך לקובץ ה-APK -->
+                <a href="https://example.com/your-app.apk" class="download-btn" download="PsychometricTimer.apk">הורד את האפליקציה</a>
+            </div>
+            
+            <div class="instructions">
+                <h3>הוראות התקנה לאנדרואיד:</h3>
+                <ol>
+                    <li>לחץ על כפתור "הורד את האפליקציה" above</li>
+                    <li>אם מתקבלת אזהרה, אשר/אשר את ההורדה</li>
+                    <li>לאחר סיום ההורדה, פתח את הקובץ</li>
+                    <li>אם מופיעה הודעה "מותקן מחסום התקנת אפליקציות", לחץ על הגדרות</li>
+                    <li>הפעל את האפשרות "אפשר התקנה ממקור זה"</li>
+                    <li>חזור להתקנה ולחץ על "התקן"</li>
+                    <li>לאחר ההתקנה, תוכל לפתוח את האפליקציה</li>
+                </ol>
+                <p class="warning">* ייתכן שתצטרך להשבית את "Google Play Protect" בהגדרות Google Play</p>
+            </div>
+        </div>
+        
+        <footer>
+            <p>© 2023 אפליקציית השעון הפסיכומטרי. כל הזכויות שמורות.</p>
+        </footer>
+    </div>
+</body>
+</html>
