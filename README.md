@@ -15,7 +15,7 @@
 ## 📥 הורדה והתקנה
 
 ### שיטה 1: הורדה ישירה
-1. לחץ על כפתור "הורד את האפליקציה" [מדף ההורדה](LINK_TO_YOUR_DOWNLOAD_PAGE)
+1. לחץ על כפתור "הורד את האפליקציה" [מדף ההורדה](https://drive.google.com/file/d/1n_gAyfHHrQtuGUVzrDFI4qSVbxMHbzek/view?usp=sharing)
 2. אשר את ההורדה כאשר מתקבלת אזהרה
 3. לאחר סיום ההורדה, פתח את הקובץ
 4. אם מופיעה הודעה, הפעל "אפשר התקנה ממקור זה"
