@@ -15,7 +15,7 @@
 ## 📥 הורדה והתקנה
 
 ### שיטה 1: הורדה ישירה
-1. לחץ על כפתור "הורד את האפליקציה" [מדף ההורדה](https://drive.google.com/file/d/1gL1kP3K0o5U09obWS0TE_f8QQGS-jbL_/view?usp=sharing)
+1. לחץ על כפתור "הורד את האפליקציה" [מדף ההורדה](https://psycomatrytimer.github.io/)
 2. אשר את ההורדה כאשר מתקבלת אזהרה
 3. לאחר סיום ההורדה, פתח את הקובץ
 4. אם מופיעה הודעה, הפעל "אפשר התקנה ממקור זה"
